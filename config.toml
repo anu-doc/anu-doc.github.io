@@ -12,8 +12,6 @@ theme = "FixIt"
   version = "0.2.18"
   # site description
   description = "This is my new Hugo FixIt site"
-  # site keywords
-  keywords = ["Hugo", "FixIt"]
   # site default theme ["light", "dark", "auto"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
