@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>draft - Tag - Anagha Premkumar</title>
+    <link>/tags/draft/</link>
+    <description>draft - Tag - Anagha Premkumar</description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 28 Jun 2023 20:03:04 &#43;0530</lastBuildDate><atom:link href="/tags/draft/" rel="self" type="application/rss+xml" /><item>
+  <title>Poster</title>
+  <link>/posts/poster/</link>
+  <pubDate>Wed, 28 Jun 2023 20:03:04 &#43;0530</pubDate>
+  <author>Author</author>
+  <guid>/posts/poster/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>Check</title>
+  <link>/posts/check/</link>
+  <pubDate>Wed, 28 Jun 2023 19:46:31 &#43;0530</pubDate>
+  <author>Author</author>
+  <guid>/posts/check/</guid>
+  <description><![CDATA[<p>COntent : ) so it works /?</p>]]></description>
+</item>
+</channel>
+</rss>
