@@ -3,7 +3,7 @@ title: OTW to PALA
 subtitle: Short Journal Entry before I leave home for 1 year NEET REPEAT
 date: 2023-06-29T14:40:14+05:30
 draft: false
-author: Anagha
+author: 
   name:
   link:
   email:
